@@ -1,6 +1,9 @@
 # answerCall.py
 # by _______
 
+# For instructions on what to do, see README.md
+# or visit (https://github.com/HundredVisionsGuy/answerCall)
+
 # Write function defintion: answerCall()
 
     
